@@ -1,8 +1,9 @@
 # RAW_Hindawi
 
-This repository contains unconverted epub files from the [Hindawi library](https://www.hindawi.org/)
+This repository contains unconverted epub files from the [Hindawi library](https://www.hindawi.org/).
 
-Only books from the following categories were scraped: 
+In 2019, a first scrape of the Hindawi website was carried out, including only the metadata, not the texts themselves.
+In May 2023, a second scrape was carried out, in which the text files (and metadata) from the following categories only were scraped: 
 
 ```
 literature
@@ -29,3 +30,5 @@ health
 psychology
 science
 ```
+
+
