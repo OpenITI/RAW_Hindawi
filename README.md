@@ -31,4 +31,6 @@ psychology
 science
 ```
 
+Online spreadsheet with the metadata: https://docs.google.com/spreadsheets/d/1n9GqzP9foHF22VLVvFdzjhyrLtPkUceFWsxycqP3gqY/edit#gid=1901670176
+
 
